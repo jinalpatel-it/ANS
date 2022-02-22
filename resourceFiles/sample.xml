@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<catalog>
+   <lang  id="lang1">
+      <Key>Label15Resouce1.Text</Key>
+      <English>For Further Information, please contact:</English>
+      <Indonesian>Untuk informasi lebih lanjut, silakhan hubungi;</Indonesian>     
+   </lang>  
+
+    <lang id="lang2">
+      <Key>Label15Resouce2.Text</Key>
+      <English></English>
+      <Indonesian></Indonesian>     
+   </lang>  
+</catalog>

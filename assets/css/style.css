@@ -1,0 +1,57 @@
+body,h1,h2,h3,h4,h5,h6{
+	color: #000000;
+	opacity: 0.7;
+}
+a,a:hover,.del-icon i{
+	color: #783daf;
+}
+.text-underline{
+	text-decoration: underline;
+}
+.title-underline{
+	display: inline-block;
+    position: relative;
+}
+.title-underline:after{
+	content: '';
+	position: absolute;
+    bottom: -9px;
+    left: 0;
+    right: 0;
+    width: 95%;
+    height: 4px;
+    background: rgba(0,0,0,1);
+    margin: 0 auto;
+}
+.hidden{
+	display: none !important;
+}
+.page-title h1,.col-title{
+	color: #fff;
+    background-color: #2e2f30;
+}
+.prev-nxt .btn{
+	background-color: #2e2f30 !important;
+	border-radius: 0;
+}
+.import-btn{
+	background-color: #783daf;
+    border-color: #000;
+    border-radius: 0 !important;
+}
+ul.no-disc{
+	list-style: none;
+}
+ul li{
+	padding: 3px 0;
+}
+ul a{
+	color: #000000;
+	opacity: 0.7;
+}
+ul a i{
+	color: #783daf;
+}
+input[readonly]{
+	background-color: #e9ecef;
+}
